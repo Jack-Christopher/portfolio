@@ -14,6 +14,7 @@ import Button from '../components/Button';
 import CurrencyConverter from '../img/CurrencyConverter.png';
 import TatleonWeb from '../img/TatleonWeb.png';
 import COVID19Statistics from '../img/COVID19Statistics.png';
+import WeatherForecast from '../img/WeatherForecast.png';
 
 
 class Work extends React.Component {
@@ -52,10 +53,10 @@ class Work extends React.Component {
                     <div className="card-group">
 
                         <ProjectCard 
-                            title='React Native Mobile App'
-                            description = "A simple web app using React Native, the APK is in Github Releases"
-                            img = "https://via.placeholder.com/150"
-                            web_link = "#"
+                            title='Weather Forecast'
+                            description = "A React Native Mobile App, there is a web version (its link is provided below) and the APK for Android is in Github Releases"
+                            img = {WeatherForecast}
+                            web_link = "https://weather-forecast-by-jc.netlify.app"
                             github_link = "https://github.com/Jack-Christopher/Weather-Forecast-React-Native-App"
                             aos = "fade-left"
                         />
