@@ -8,7 +8,6 @@ import About from "../pages/About";
 import MySkills from "../pages/MySkills";
 import Work from "../pages/Work";
 import Contact from "../pages/Contact";
-import NotFound from "../pages/NotFound";
 
 
 import AOS from 'aos';
