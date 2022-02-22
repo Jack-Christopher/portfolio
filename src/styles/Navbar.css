@@ -1,0 +1,28 @@
+.navbar
+{
+    background-color: #861657;
+    background-image: linear-gradient(326deg, #283747 0%, #0f0f0f 74%);
+
+    padding: 15px 30px;
+    /* margin: 15px; */
+}
+
+.nav-link
+{
+    /* font size */
+    font-size: 1.5em;
+    /* color: #a5a5a5 !important; */
+    color: #9b9b9b !important;
+}
+
+
+.nav-link:hover
+{
+    color: #fff !important;
+    border-bottom: 2px solid #fff;
+}
+
+.Logo
+{
+    border-radius: 20px;
+}

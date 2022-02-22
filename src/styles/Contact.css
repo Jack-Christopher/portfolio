@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+#contact
+{
+    background-color: #141414;
+    padding: 30px 0px 60px 0px;
+}
+
+#contact-me-title
+{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0px 0px 25px;
+}
+
+#contact-me
+{
+    color: white;
+}
+
+#contact-text
+{
+    font-family: 'Cabin', sans-serif;
+}
