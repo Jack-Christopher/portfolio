@@ -5,6 +5,12 @@
     height: 100vh;
     /* background-color: #f5f5f5; */
     background-color: #ffffff;;
+    background-image: url("../../src/img/WhiteBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    
+    
 }
 
 /* body
@@ -16,7 +22,7 @@
 {
     /* color: #fff; */
     color: rgb(0, 0, 0);
-    padding: 36px;
+    padding: 30px;
 }
 
 h1, h2, h3
